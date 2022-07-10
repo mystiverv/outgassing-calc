@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WeighingProtocol version="1.0" xmlns="http://www.mt.com/XMLSchema/ExcellenceWeighing/V1" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <Manufacturer>METTLER TOLEDO</Manufacturer>
+    <User></User>
+    <Timestamp>2022-06-16T15:22:08</Timestamp>
+    <Balance>
+      <BalanceType>XPR6UD5</BalanceType>
+      <BalanceId>2683912</BalanceId>
+      <TerminalSerialNumber>B749084993</TerminalSerialNumber>
+      <BridgeSerialNumber>B749084993</BridgeSerialNumber>
+      <SoftwareVersion>2.0.1.141</SoftwareVersion>
+    </Balance>
+  </Header>
+  <Task methodName="VCM DAY 3" methodType="GeneralWeighing">
+    <TaskIdentifiers>
+      <TaskIdentifier description="Task ID"></TaskIdentifier>
+    </TaskIdentifiers>
+    <Results>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T14:56:09">
+          <ResultIdentifier1 description="Sample ID">300 #1</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">299.9890</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">299.9890</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T14:57:15">
+          <ResultIdentifier1 description="Sample ID">300 #2</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">299.9870</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">299.9870</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T14:57:52">
+          <ResultIdentifier1 description="Sample ID">300 #3</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">299.9875</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">299.9875</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T14:59:37">
+          <ResultIdentifier1 description="Sample ID">100 #1</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">99.9915</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">99.9915</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:00:12">
+          <ResultIdentifier1 description="Sample ID">100 #2</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">99.9895</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">99.9895</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:00:44">
+          <ResultIdentifier1 description="Sample ID">100 #3</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">99.9900</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">99.9900</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:01:27">
+          <ResultIdentifier1 description="Sample ID">30 #1</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">29.9935</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">29.9935</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:02:02">
+          <ResultIdentifier1 description="Sample ID">30 #2</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">29.9950</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">29.9950</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:02:35">
+          <ResultIdentifier1 description="Sample ID">30 #3</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">29.9935</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">29.9935</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:11:29">
+          <ResultIdentifier1 description="Sample ID">SAMPLE A1</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">293.9565</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">293.9565</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:14:19">
+          <ResultIdentifier1 description="Sample ID">SAMPLE A2</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">359.5635</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">359.5635</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:05:14">
+          <ResultIdentifier1 description="Sample ID">SAMPLE A3</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">33.6105</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">33.6105</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:07:38">
+          <ResultIdentifier1 description="Sample ID">SAMPLE A4</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">362.6795</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">362.6795</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:12:08">
+          <ResultIdentifier1 description="Sample ID">SAMPLE A5</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">311.6220</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">311.6220</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:15:23">
+          <ResultIdentifier1 description="Sample ID">SAMPLE A6</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">329.1265</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">329.1265</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:04:18">
+          <ResultIdentifier1 description="Sample ID">SAMPLE A7</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">315.3665</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">315.3665</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:12:43">
+          <ResultIdentifier1 description="Sample ID">SAMPLE A8</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">45.9975</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">45.9975</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:13:24">
+          <ResultIdentifier1 description="Sample ID">SAMPLE A9</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">273.4205</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">273.4205</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:17:33">
+          <ResultIdentifier1 description="Sample ID">SAMPLE A10</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">292.1535</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">292.1535</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:05:58">
+          <ResultIdentifier1 description="Sample ID">SAMPLE B1</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">299.5275</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">299.5275</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:06:34">
+          <ResultIdentifier1 description="Sample ID">SAMPLE B2</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">368.3580</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">368.3580</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:08:23">
+          <ResultIdentifier1 description="Sample ID">SAMPLE B3</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">32.2900</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">32.2900</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:10:51">
+          <ResultIdentifier1 description="Sample ID">SAMPLE B4</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">346.9675</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">346.9675</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:16:03">
+          <ResultIdentifier1 description="Sample ID">SAMPLE B5</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">247.6870</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">247.6870</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:21:04">
+          <ResultIdentifier1 description="Sample ID">SAMPLE B6</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">0.0000</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">0.0000</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:09:13">
+          <ResultIdentifier1 description="Sample ID">SAMPLE B7</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">247.4975</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">247.4975</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:09:53">
+          <ResultIdentifier1 description="Sample ID">SAMPLE B8</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">260.0650</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">260.0650</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:18:14">
+          <ResultIdentifier1 description="Sample ID">SAMPLE B9</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">34.6335</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">34.6335</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+      <ResultItem quickState="Ok">
+        <Weighing step="FirstWeighing" timestamp="2022-06-16T15:16:48">
+          <ResultIdentifier1 description="Sample ID">SAMPLE B10</ResultIdentifier1>
+          <NetWeight unit="mg" calculated="false">333.1725</NetWeight>
+          <TareWeight unit="mg" pretared="false">0.0000</TareWeight>
+          <GrossWeight unit="mg">333.1725</GrossWeight>
+          <Stable>true</Stable>
+        </Weighing>
+      </ResultItem>
+    </Results>
+  </Task>
+</WeighingProtocol>
