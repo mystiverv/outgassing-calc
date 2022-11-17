@@ -6,3 +6,5 @@ Outgassing is essentially how much material evaporates from a given material whe
 This test produces a lot of raw data that is somewhat difficult to parse through by hand so i created this simple gui that allows people to use the standard
   output files from the machine so that it takes as little effort as possible from the operator.
  It's is hopefully pretty fool proof but its also my first ever full application so it's pretty barebones and low tech.
+
+Legally this code belongs to California Institute of Technology 
